@@ -12,7 +12,7 @@ export default function Cta9() {
                   Get Expert Advice On Consultancy and Strategies.
                 </h1>
                 <p className="font-ks lineh-26 weight-500 color-21 font-16">
-                  FARPoD offers expert consultancy services to our clients at no
+                  Baraarug offers expert consultancy services to our clients at no
                   cost, ensuring their services are maximally utilized.
                 </p>
               </div>

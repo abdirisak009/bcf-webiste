@@ -153,17 +153,11 @@ export default function Home() {
                     <div className="lax-conultingprovide">
                       <Link href="/servicemiddle" className="color-29">
                         <h1 className="font-lora font-24 lineh-24 weight-600 color-29 margin-b14 ts">
-                          Establish a collaborative relationship with our
-                          clients
+                        Strengthen Institutional Capacities
                         </h1>
                       </Link>
                       <p className="font-ks lineh-26 weight-500 color-30 font-16 ts">
-                        As a consultant, we work with our clients as a working
-                        team. Working in a collaborative fashion with our
-                        clients helps ensure that recommendations are accurate,
-                        that clients follow the recommendations and that they
-                        adopt the changes needed to improve themselves and their
-                        organizations.
+                      Develop and implement capacity-building initiatives that enable organizations to enhance their leadership, technical, and operational capabilities.
                       </p>
                     </div>
                   </div>
@@ -178,18 +172,11 @@ export default function Home() {
                     <div className="lax-conultingprovide">
                       <Link href="/servicemiddle" className="color-29">
                         <h1 className="font-lora font-24 lineh-24 weight-600 color-29 margin-b14 ts">
-                          Solve problems as clients can solve them later
-                          themselves
+                        Enhance Public-Private Partnerships
                         </h1>
                       </Link>
                       <p className="font-ks lineh-26 weight-500 color-30 font-16 ts">
-                        Our approach to problem solving in the project as we
-                        always involve our client’s learning about what is being
-                        done and why, so that later our client might use similar
-                        approaches to solve similar problems after we are gone
-                        from the project. This is very important to regularly
-                        identify learning during the project and discussing that
-                        learning with our client.
+                      Facilitate collaborations between the public and private sectors, driving innovation and investment in key areas such as infrastructure, healthcare, and education
                       </p>
                     </div>
                   </div>
@@ -204,16 +191,11 @@ export default function Home() {
                     <div className="lax-conultingprovide">
                       <Link href="/servicemiddle" className="color-29">
                         <h1 className="font-lora font-24 lineh-24 weight-600 color-29 margin-b14 ts">
-                          Ensure attention to developing the project and
-                          relationships
+                        Promote Good Governance
                         </h1>
                       </Link>
                       <p className="font-ks lineh-26 weight-500 color-30 font-16 ts">
-                        The quality of the relationship between us and our
-                        client is a reliable predictor of the quality of the
-                        outcome of the overall project. Our clients often judge
-                        a project, not so much by the outcomes from the project,
-                        but by the quality of the working relationship with us.
+                      Lead efforts to improve public financial management systems, policies, and transparency, ensuring that governments and institutions are accountable to the public.
                       </p>
                     </div>
                   </div>
@@ -251,40 +233,23 @@ export default function Home() {
                       Our Mission
                     </h1>
                     <p className="font-ks font-16 lineh-26 weight-500 color-30 margin-b">
-                      Our purpose is to build trust in society and solve
-                      important problems by providing innovative, bestin-class
-                      consultancy and various services.
+                    We deliver expert, innovative
+consulting solutions that empower
+clients to overcome challenges, drive
+excellence, and foster sustainable
+socio-economic growth
                     </p>
                     <h1 className="font-lora font-48 lineh-56 weight-600 color-29 margin-b20">
                       Our Vision
                     </h1>
                     <p className="font-ks font-16 lineh-26 weight-500 color-30 margin-b">
-                      To help our clients make distinctive and substantial
-                      improvements in their performance and build a
-                      high-quality, world-class firm that attracts, develops,
-                      excites, and retains exceptional clients.
+                    To be a globally recognized
+consulting firm leading impactful
+change, strengthening institutions,
+and driving sustainable development
+across Somalia and beyond.
                     </p>
-                    <ul>
-                      <li className="font-ks font-16 lineh-16 weight-600 color-17 margin-b20">
-                        <span>
-                          <img src="/assets/images/icons/check1.png" alt="" />
-                        </span>
-                        Drive performance improvements for clients
-                      </li>
-                      <li className="font-ks font-16 lineh-16 weight-600 color-17 margin-b20">
-                        <span>
-                          <img src="/assets/images/icons/check1.png" alt="" />
-                        </span>
-                        Build a world-class firm with exceptional clients.
-                      </li>
-                      <li className="font-ks font-16 lineh-16 weight-600 color-17 margin-b20">
-                        <span>
-                          <img src="/assets/images/icons/check1.png" alt="" />
-                        </span>
-                        Foster excellence and innovation for exceptional
-                        results.
-                      </li>
-                    </ul>
+                 
                   </div>
                 </div>
               </div>

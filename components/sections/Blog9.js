@@ -26,7 +26,7 @@ export default function Blog9() {
             >
               <div className="blog9-boxarea">
                 <div className="blog9-authorarea">
-                  <img src="/assets/images/sectionimg/blog9img1.png" alt="" />
+                  <img src="/assets/images/sectionimg/blogimg1.jpg" alt="" />
                 </div>
                 <div className="blog9auhtor-texrea">
                   <div className="blog1-text">
@@ -72,7 +72,7 @@ export default function Blog9() {
             >
               <div className="blog9-boxarea">
                 <div className="blog9-authorarea">
-                  <img src="/assets/images/sectionimg/blog9img2.png" alt="" />
+                  <img src="/assets/images/sectionimg/blogimg2.jpg" alt="" />
                 </div>
                 <div className="blog9auhtor-texrea">
                   <div className="blog1-text">

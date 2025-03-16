@@ -40,7 +40,7 @@ delivering exceptional value across all sectors we serve.
 
       <div className="d-flex align-items-start mt-4">
         <div style={{ backgroundColor: "#05B54C", borderRadius: "10px", padding: "15px" }}>
-          <i className="fas fa-cogs text-white" style={{ fontSize: "24px" }}></i>
+         <i className="fas fa-wrench text-white" style={{ fontSize: "24px" }}></i>
         </div>
         <div className="ms-3">
           <h5 style={{ color: "#05B54C", fontWeight: "bold" }}>Strengthen Institutional Capacities</h5>
@@ -54,7 +54,8 @@ technical, and operational capabilities.
 
       <div className="d-flex align-items-start mt-3">
         <div style={{ backgroundColor: "#05B54C", borderRadius: "10px", padding: "15px" }}>
-          <i className="fas fa-clock text-white" style={{ fontSize: "24px" }}></i>
+        <i className="fas fa-handshake text-white" style={{ fontSize: "24px" }}></i>
+
         </div>
         <div className="ms-3">
           <h5 style={{ color: "#05B54C", fontWeight: "bold" }}>Enhance Public-Private Partnerships</h5>
@@ -62,6 +63,21 @@ technical, and operational capabilities.
           Facilitate collaborations between the public and private
 sectors, driving innovation and investment in key areas
 such as infrastructure, healthcare, and education
+          </p>
+        </div>
+      </div>
+      <div className="d-flex align-items-start mt-3">
+        <div style={{ backgroundColor: "#05B54C", borderRadius: "10px", padding: "15px" }}>
+        <i className="fas fa-balance-scale text-white" style={{ fontSize: '24px' }}></i>
+
+
+        </div>
+        <div className="ms-3">
+          <h5 style={{ color: "#05B54C", fontWeight: "bold" }}>Promote Good Governance</h5>
+          <p style={{ color: "#FFFFFF" }}>
+          Lead efforts to improve public financial management
+systems, policies, and transparency, ensuring that
+governments and institutions are accountable to the public.
           </p>
         </div>
       </div>
@@ -73,8 +89,8 @@ such as infrastructure, healthcare, and education
         <Image
           src="/assets/images/book.jpg"
           alt="Why Choose Us"
-          width={350}
-          height={350}
+          width={450}
+          height={450}
           className="rounded-circle"
           style={{ objectFit: "cover" }}
         />

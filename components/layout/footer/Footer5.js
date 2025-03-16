@@ -77,22 +77,7 @@ export default function Footer5() {
                             >
                               Financial Management &amp; Risk Mitigation
                             </Link>
-                          </li>
-                          <li>
-                            <Link
-                              href="#"
-                              className="font-outfit font-16 color-21 lineh-16 weight-400 margin-t d-inline-block"
-                            >
-                              Supply Chain & Procurement
-                            </Link>
-                          </li>
-                          <li>
-                            <Link
-                              href="#"
-                              className="font-outfit font-16 color-21 lineh-16 weight-400 margin-t d-inline-block"
-                            >
-                              Capacity Building & Training
-                            </Link>
+                     
                           </li>
                         </ul>
                       </div>
@@ -177,7 +162,7 @@ export default function Footer5() {
                           href="/mailto:info@taxvice.com"
                           className="font-16 lineh-24 color-21 weight-400 font-outfit"
                         >
-                          info@farpod.org
+                          info@bcf.so
                         </Link>
                       </div>
                       <div className="email4 margin-t">
@@ -197,7 +182,7 @@ export default function Footer5() {
                           href="/tel:123-456-7890"
                           className="font-16 lineh-24 color-21 weight-400 font-outfit"
                         >
-                          +252619395850
+                          +252615300888
                         </Link>
                       </div>
                     </div>

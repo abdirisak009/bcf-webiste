@@ -144,7 +144,7 @@ export default function Conatact2() {
                         href="/tel:123-456-7890"
                         className="font-ks font-16 weight-500 colorhp1 lineh-16 ts"
                       >
-                        +252619395850
+                        +252615300888
                       </Link>
                     </div>
                   </div>

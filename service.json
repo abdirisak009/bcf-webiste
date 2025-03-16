@@ -1,0 +1,148 @@
+{
+    "services": [
+        {
+            "id": "1",
+            "uniqueKey": "Monitoring-Evaluation-Researchand-Learning",
+            "title": "Monitoring, Evaluation, Research and Learning",
+            "body": "FARPoD provides its clients with expertise in Monitoring, Evaluation, Research, and Learning (MERL), which is considered to be the best in the industry. Our goal is to support institutions, Government and Humanitarian actors in performance management by using rigorous MERL tools and methods. Our performance and impact evaluations are designed to provide scalable and actionable findings, conclusions, and recommendations. Whether it's identifying a theory of change, assessing progress towards self-reliance, measuring program performance, or designing a monitoring and evaluation (M&E) system for complex data management, we ensure that high-quality data is generated to address important questions about progress towards intended results",
+            "subTitle": "Expertise in Monitoring, Evaluation, Research and Learning ",
+            "items": [
+                "Conflict Settings",
+                "Analytic Frameworks",
+                "Large-Scale Surveys",
+                "Collaboration, Learning, Adapting (CLA)",
+                "Data Quality Assessments",
+                "Innovative Tools",
+                "Impact Evaluations",
+                "Third-Party Monitoring",
+                "Mission Monitoring, Evaluation, and Learning (ME&L) Platforms"
+            ]
+        },
+        {
+            "id": "2",
+            "uniqueKey": "Institutional-Support-and-policy-development",
+            "title": "Institutional Support and policy development",
+            "body": "FARPoD's institutional support practice is dedicated to assisting government agencies, institutions, and humanitarian sectors in achieving their desired outcomes. We understand that our clients' needs are constantly evolving, which is why we continuously strive to find better ways to meet those needs. Our approach involves mobilizing, vetting, training, and deploying our staff to the designated areas. By utilizing data-driven systems, inclusive networks, and a strong commitment to diversity, FARPoD is able to identify and support the most qualified individuals and teams for our clients. This ensures exceptional results are delivered whenever and wherever required.",
+            "subTitle": "Expertise in Institutional Support and policy development",
+            "items": [
+                "Tools and Analytics",
+                "Diverse, Specialized Personnel with Secret and Top-Secret Clearances",
+                "Administrative Professionals",
+                "Strategic, Operational, and Management Support Specialists",
+                "Technical Experts"
+            ]
+        },
+        {
+            "id": "3",
+            "uniqueKey": "Financial-Management-Risk-Mitigation",
+            "title": "Financial Management & Risk Mitigation",
+            "body": "FARPoD's Financial Management and Accountability division provides comprehensive technical assistance to both public and private sector clients, aiming to improve their management and governance practices. Our services range from offering fiscal agents and accounting systems training to providing guidance on privatization. We have collaborated with various entities, including treasuries, ministries, private-investment partnerships, and multilateral organizations. With our extensive expertise, we specialize in capacity building, training, and assessing and enhancing financial management systems. Through these efforts, we have successfully fostered transparency in business processes, strengthening our clients' relationships with investors, donors, and the general public.",
+            "subTitle": "Expertise in Financial Management & Risk Mitigation",
+            "items": [
+                "Financial Risk Management",
+                "Developing Financial Infrastructure",
+                "Fiscal Reform",
+                "Governance & Accountability"
+            ]
+        },
+        {
+            "id": "4",
+            "uniqueKey": "Supply-Chain-Procurement",
+            "title": "Supply Chain & Procurement",
+            "body": "FARPoD is a specialized organization that focuses on monitoring and verifying supply chains, providing donors with informative dashboards, and coordinating various humanitarian supplies in the field. We actively explore innovative approaches to logistics and strategic risk mitigation, using advanced technologies like warehouse sensors, Bluetooth low-energy beacons, drones, and satellite imagery. In addition to our supply chain expertise, FARPoD excels in procuring goods and services. We have a proven track record of providing technical assistance to partner agencies, helping them enhance their procurement processes and achieve greater efficiency.",
+            "subTitle": "Expertise in Supply Chain & Procurement",
+            "items": [
+                "Risk Analysis for Forecasting and Supply Planning",
+                "Warehouse and Inventory Management",
+                "Enhanced Data Visibility",
+                "Distribution",
+                "Measurement of the 'Last Mile'"
+            ]
+        },
+        {
+            "id": "5",
+            "uniqueKey": "Capacity-Building-Training",
+            "title": "Capacity Building & Training",
+            "body": "FARPoD is a reputable organization specializing in designing and delivering training programs across diverse development sectors. As a leader in Human and Institutional Capacity Development (HICD), we offer formal training programs and technical assistance to enhance data collection and analytical techniques. Our aim is to help organizations align their approaches with their vision. With a focus on adult education and capacity building, FARPoD has successfully supported various entities, including parastatal agencies, NGOs, universities, the United Nations, and USAID partners. Through assessments, on-the-job training, and workshops, we enable organizations to improve their internal operations, enhance efficiency, effectiveness, and foster strong stakeholder relationships.",
+            "subTitle": "Expertise in Capacity Building & Training",
+            "items": [
+                "Design Trainings",
+                "Mentorships",
+                "Developing Best Practices",
+                "Trainings about CLA"
+            ]
+        },
+        {
+            "id": "6",
+            "uniqueKey": "Agriculture-Resilience-Food-Security",
+            "title": "Agriculture, Resilience, & Food Security",
+            "body": "FARPoD is an organization that supports communities in need by addressing food insecurity, agriculture, and agricultural information communication challenges. They specialize in evaluating projects aimed at reducing food insecurity and enhancing resilience among vulnerable populations, smallholder farmers, and local community groups. In collaboration with public and donor-funded organizations, FARPoD assists in assessing overall impact, identifying best practices, and extracting valuable lessons from programs. FARPoD's expertise lies in indicators and methods related to nutrition, seeds, agricultural support, and food assistance. They actively contribute to the development of local institutions by partnering with survey firms to enhance evaluation capacity. Additionally, they foster communities of practice within the communities they serve, promoting knowledge sharing and resource utilization for better results analysis. FARPoD has established itself as a leader in measuring resilience and facilitating collaboration among aid agencies. By comparing approaches in understanding livelihoods and long-term resilience, they promote effective collaboration and informed decision-making among aid agencies.",
+            "subTitle": "",
+            "items": []
+        },
+        {
+            "id": "7",
+            "uniqueKey": "Crisis-and-Peacebuilding",
+            "title": "Crisis and Peacebuilding",
+            "body": "FARPoD has conducted various evaluations and assessments in fragile and conflict-affected countries with the aim of measuring performance and impact, identifying needs, and monitoring and verifying activities. This is achieved through data collection, fieldwork, analysis, and reporting. The information gathered is used to support clients, their staff, and implementing partners in shaping conflict programming. As part of its crisis and conflict program-oriented methodology, FARPoD conducts evidence-based evaluations to assess project performance and client project performance plans (PMPs). Additionally, FARPoD conducts data quality assessments and provides training sessions to enhance self-reliance in local communities and improve the effectiveness of government and private implementation partners. With extensive experience in independent monitoring and evaluation services, FARPoD is able to quickly deploy project staff and consultants for site visits. It also establishes in-house databases to host field monitoring data and develops communication channels in fragile states. These efforts aim to build community conflict prevention and mitigation networks, enhance local security, and improve response capacity.",
+            "subTitle": "",
+            "items": []
+        },
+        {
+            "id": "8",
+            "uniqueKey": "Democracy-Governance",
+            "title": "Democracy & Governance",
+            "body": "FARPoD specializes in democracy and governance programming, assisting clients in enhancing accountability within institutions in fragile and conflict-affected countries. Through extensive collaboration with local stakeholders, FARPoD strengthens the pillars of democracy, peace, and prosperity by forming inclusive partnerships aimed at improving governance, stabilization, and economic growth. To support promotion of democracy and governance, FARPoD conducts direct interviews with government officials at local, regional, and national levels, political parties and institutions, civil society organizations, as well as representatives from diverse communities across the country.",
+            "subTitle": "",
+            "items": []
+        },
+        {
+            "id": "8",
+            "uniqueKey": "Economic-Growth-Trade",
+            "title": "Economic Growth & Trade",
+            "body": "As an industry leader in research, assessment, and evaluation of assistance programs, FARPoD has focused on measuring and understanding the factors that contribute to economic growth within a country. We emphasize the importance of regional understanding and the intersection of public, private, and civic partnerships in driving economic development. By leveraging our regional understanding, FARPoD conducts economic, labor market, and trade assessments using a variety of approaches, including qualitative, quantitative, mixed-method, and gender disaggregated methods. Our goal is to provide valuable insights to decision-makers, while also building local capacity and enhancing the success of project implementation. Furthermore, FARPoD has experience in conducting institutional, operational, and financial restructuring of financial institutions. This enables international communities to make critical economic decisions with increased transparency and effectiveness.",
+            "subTitle": "",
+            "items": []
+        },
+        {
+            "id": "9",
+            "uniqueKey": "Education",
+            "title": "Education",
+            "body": "FARPoD is dedicated to promoting inclusion and accessibility in order to support the educational needs of children, youth, and families. Our aim is to improve reading outcomes in community schools, increase services for orphans and vulnerable children, provide life skills training for school-going youth, and address sexual and reproductive health issues for adolescents. We work tirelessly in the harshest of conditions to bring educational resources to those who need them most, even in the most remote regions.  FARPoD has also conducted performance and impact evaluations in various areas, including Educational Administration, basic education, university partnerships, school feeding, and support for vulnerable children. In addition to these evaluations, we also provide training and professional development opportunities and work on improving water and sanitation services in schools. We are committed to empowering not only the communities we serve, but also the host country nationals through participant training programs.",
+            "subTitle": "",
+            "items": []
+        },
+        {
+            "id": "10",
+            "uniqueKey": "EnergyInfrastructure",
+            "title": "Energy & Infrastructure",
+            "body": "FARPoD offers a range of services including strategy development, evaluation and assessment planning, as well as renewable energy qualifications. We have extensive experience collaborating with government entities to navigate their regulations. Our expertise lies in analyzing the environmental, social, and poverty reduction implications of current energy strategies implemented in various countries. We also specialize in assessing the feasibility of incorporating alternative energy resources (renewable energy). Our approach involves working closely with key stakeholders, decision makers, and planners to facilitate discussions on energy solutions that align with budgetary and sustainability goals.Furthermore, FARPoD has conducted comprehensive assessments of infrastructure, such as buildings and utility networks, in multiple countries. We possess the necessary tools to evaluate the public utilization of infrastructure after construction. In Somalia, we have led assessment to determine the damage inflicted upon schools due to both conflict and natural disasters.",
+            "subTitle": "",
+            "items": []
+        },
+        {
+            "id": "11",
+            "uniqueKey": "EnvironmentClimateChange",
+            "title": "Environment Climate Change",
+            "body": "FARPoD leverages its experience working in the developing world to promote a more environmentally sustainable world. Over the years, FARPoD has actively measured the effectiveness of ecosystem services, land and ocean conservation, species protection, and pilot initiatives to mitigate the effects of climate change for its clients. FARPoD excels at understanding various forms of climate adaptation supported by aid partners. Through these activities, FARPoD has developed local capacity to enhance local stakeholder involvement.Water is a key focus across a range of FARPoD's work. FARPoD continually monitors water and sanitation programs through its monitoring and evaluation platforms. By improving evaluations and strengthening institutions, policies, and technical capacity, we enhance water systems and sector management. We collaborate with governments, communities, and key stakeholders interested in utilizing climate resilience frameworks, low-emission development strategies, and other innovative tools and approaches.",
+            "subTitle": "",
+            "items": []
+        },
+        {
+            "id": "12",
+            "uniqueKey": "GlobalHealthWASH",
+            "title": " Global Health & WASH",
+            "body": "Drawing on our extensive pool of in-house global health experts and network of trusted consultants, FARPoD is able to rapidly mobilize resources to address a wide range of health areas. We cover topics such as infectious diseases including TB, Corona, and HIV/AIDS, as well as funded initiatives that focus on helping orphans and vulnerable children. In addition to monitoring and evaluation, we also prioritize strengthening other essential pillars of health systems, such as expenditure analyses, results-based financing, willingness to pay, human resources for health, and supply chain management. Our work also extends to areas such as water, sanitation, and hygiene. Our technical experts are well-versed in these fields as well as others, including nutrition, micronutrients, and fortification. At FARPoD, we have developed conceptual models that allow us to objectively measure some of the most challenging issues in development. We create analytical frameworks that are tailored to the specific needs of our clients. For example, one of our frameworks measures the sustainability of a health system in conjunction with other ecosystems, recognizing that health does not exist in isolation. Our Quality-of-Care Measurement Index examines both the supply and demand sides of service delivery, taking into account their impact on health outcomes. Another measurement framework we have developed assesses the level of integration of agricultural interventions within a health program. Additionally, we have created a Capacity Building Success Meter that measures the ability of local partners to conduct research and evaluation We prioritize providing our clients with personalized attention, ensuring that our products and services directly address their unique needs.",
+            "subTitle": "",
+            "items": []
+        },
+        {
+            "id": "13",
+            "uniqueKey": "HumanitarianandDisasterAssistance",
+            "title": "Humanitarian and Disaster Assistance",
+            "body": "FARPoD's mission is to analyze effective and cost-efficient approaches in addressing the most challenging environments impacted by war, disaster, and famine. We evaluate humanitarian aid responses to a wide range of crises, including famine, civil conflicts, counterterrorism efforts, and mass forced migration. Over the years, FARPoD has emerged as a leading institution in evaluating interventions in some of the world's most dangerous places, such as Somalia. To ensure reliable data collection in inaccessible areas, FARPoD maintains a dedicated security team.",
+            "subTitle": "",
+            "items": []
+        }
+    ]
+}

@@ -14,7 +14,7 @@ export default function Footer5() {
                 <div className="row">
                   <div className="col-lg-4 col-md-6">
                     <div className="footer-logo2">
-                      <img src="/assets/images/logo.png" alt="" />
+                      <img src="/assets/images/bcflogo.png" alt="" />
                       <p className="font-16 lineh-26 color weight-400 font-outfit margin-b24 margin-t">
                         {/* Include any additional information that may <br /> be
                         relevant or helpful for visitors, such as <br /> FAQs,
@@ -211,8 +211,7 @@ export default function Footer5() {
                 <div className="col-lg-12 text-center">
                   <div className="copyright1">
                     <p className="font-outfit font-16 lineh-26 weight-400 ">
-                      Copyright {new Date().getFullYear()} © Fairytale Agency
-                      for Research and Policy Development Limited
+                      Copyright {new Date().getFullYear()} © Baraarug Consulting Firm
                     </p>
                   </div>
                 </div>
@@ -220,11 +219,11 @@ export default function Footer5() {
             </div>
           </div>
         </div>
-        <img
-          src="/assets/images/elementor/elementor35.png"
+        {/* <img
+          src="/assets/images/elementor/elementor35"
           alt=""
           className="elementors4"
-        />
+        /> */}
       </div>
     </>
   );
